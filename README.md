@@ -12,5 +12,7 @@ this is my private journey - made public.
 detect visible button, comboboxes and labels in paint on windows 11 (version 23H2)
 
 # history:
+~~~
 20230130: create training data and draft intention of project
 20230227: added project 01_paint
+~~~

@@ -22,7 +22,7 @@ for i in range(10):
         if cp[2]:
             if cp[0]==b.xcenter and cp[1]==b.ycenter:
                 screenshot_1.rectangle(b.rectangle, outline ="blue")
-                output.append(str([b, b.rectangle, b.xcenter, b.ycenter]))
+                output.append(str([b, b.rectangle, b.xcenter, b.ycenter])+"\n")
             else:
                 screenshot_1.rectangle(b.rectangle, outline ="yellow")
         else:
